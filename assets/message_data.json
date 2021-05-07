@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "threadId": 1,
+    "user": "ejones36",
+    "type": "received",
+    "archived": false,
+    "sentDate": "2021-05-27T00:00:00.511Z",
+    "body": "Your contract for 15 Heritage Halls #2101 is ending on April 24. Make sure to be fully moved out by 10:00 AM.",
+    "subject": "Contract Ending",
+    "read": false
+  },
+  {
+    "id": 0,
+    "threadId": 0,
+    "user": "ejones36",
+    "type": "received",
+    "archived": true,
+    "sentDate": "2021-04-27T00:00:00.511Z",
+    "subject": "Waiting List Request Received",
+    "body": "This message is to confirm that your waiting list request has been received for Wymount Terrace Options: 1 Bedroom, 2 Bedroom.",
+    "read": true 
+  },
+  {
+    "id": 2,
+    "threadId": 0,
+    "user": "ejones36",
+    "type": "sent",
+    "archived": true,
+    "sentDate": "2021-04-27T00:00:00.511Z",
+    "subject": "Waiting list inquiry",
+    "body": "Hello. I recently completed a waiting list request. I was wondering if there is any way that I could know my position? Just so that I can better plan where I will live. Thanks!",
+    "read": true 
+  }
+]
